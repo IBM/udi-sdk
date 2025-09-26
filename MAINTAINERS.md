@@ -1,9 +1,7 @@
 # MAINTAINERS
 
-Mo McElaney - mmcelaney@us.ibm.com
+Aditya Rohan Singh - adityars@ibm.com
 
-JJ Asghar - jja@ibm.com
+Sharath Kumar Aithal - shaithal@in.ibm.com
 
-Joe Sepi - joesepi@ibm.com
-
-Brad Topol - btopol@us.ibm.com
+Pragathi Prasahanth - PRAGATHI.PRASHANTH@ibm.com
