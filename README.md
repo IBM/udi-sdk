@@ -1,5 +1,9 @@
 ## IBM-UDI Python SDK
 
+---
+Notice: This SDK has been deprecated and will be removed by 30th Sept 2026. All users are requested to use the [new SDK](https://ibm.github.io/ibm-watsonx-data-integration-sdk/chapters/05_preparing_data/udi/index.html).
+---
+
 The `ibm-udi` SDK for Python enables developers and data engineers to programmatically interact with the [unstructured data integration service](https://www.ibm.com/docs/en/watsonxdata/saas?topic=data-working-unstructured), IBM’s next-generation data integration platform built to support modern, hybrid-cloud data pipelines.
 
 With this SDK, users can automate and manage Flow lifecycles such as creating, configuring, starting, stopping, and monitoring Flows directly in code.
